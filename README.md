@@ -3,7 +3,7 @@ This is a python script that send e-mails to someone if you do not access a scri
 
 What do you need?
 1) A computer or cloud based machine that will continue running, at lest 1 year, after you died
-2) A gmail with inactive desativation at least 1 year ( or acces a e-mail from someone that will believes stay alive after you go )
+2) A gmail with inactive desativation at least 1 year ( or access an e-mail from someone that you believes stay alive after you go )
 3) Previously send 3 files (will, seeds e passphrase) that only opens with the password that script will send due your inactivity
 
 How to use (Windows 10 64bits - Feel free to update the scripts for Linux version):
