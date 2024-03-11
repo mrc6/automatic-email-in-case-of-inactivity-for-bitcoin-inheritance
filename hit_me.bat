@@ -1,3 +1,3 @@
 call .\venv\Scripts\activate.bat
-call save_date.py
+call python save_date.py
 call .\venv\Scripts\deactivate.bat
